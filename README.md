@@ -17,8 +17,24 @@ Follow these steps to set up the project:
     ```bash
     composer install
     npm install && npm run dev
-3. ** Default Admin Credentials**
+3. **Make Migrations**
+    ```bash
+    php artisan migrate
+4. **Start Server**
+   ```bash
+   php artisan serve
+    ```
+   ```bash
+   npm run dev
+    ```
+   
+4. **Default Admin Credentials**
 Use the following credentials to log in as an admin:
+   EMAIL:
 ```bash
-   Email: admin@example.com
-    Password: password123**
+   admin@example.com
+```
+   PASSWORD:
+```bash
+   admin123
+```
