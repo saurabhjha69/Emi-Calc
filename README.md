@@ -17,3 +17,8 @@ Follow these steps to set up the project:
     ```bash
     composer install
     npm install && npm run dev
+3. ** Default Admin Credentials**
+Use the following credentials to log in as an admin:
+```bash
+   Email: admin@example.com
+    Password: password123**
