@@ -12,3 +12,8 @@ Follow these steps to set up the project:
    ```bash
    git clone https://github.com/your-username/emi-calculator.git
    cd emi-calculator
+
+2. **Install Dependencies**
+    ```bash
+    composer install
+    npm install && npm run dev
