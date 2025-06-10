@@ -30,11 +30,7 @@ Follow these steps to set up the project:
    
 4. **Default Admin Credentials**
 Use the following credentials to log in as an admin:
-   EMAIL:
 ```bash
-   admin@example.com
-```
-   PASSWORD:
-```bash
-   admin123
+    admin@example.com
+    admin123
 ```
